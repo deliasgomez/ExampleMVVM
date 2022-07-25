@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--General dimensions components-->
+    <dimen name="size_10">10dp</dimen>
+    <dimen name="size_16">16dp</dimen>
+
+
+    <!--General dimensions texts-->
+    <dimen name="size_text_20">20sp</dimen>
+    <dimen name="size_text_24">24sp</dimen>
+
+
+</resources>
